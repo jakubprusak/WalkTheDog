@@ -1,0 +1,12 @@
+﻿@model IEnumerable<WalkTheDog.Public.Meeting.MeetingDto>
+
+@{
+    ViewBag.Title = "MeetingsList";
+}
+
+<h2>MeetingsList</h2>
+
+@foreach(var item in Model){
+    @item.Description
+}
+

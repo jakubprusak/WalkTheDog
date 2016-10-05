@@ -1,0 +1,10 @@
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.dll.config
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.pdb
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.xml
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.pdb

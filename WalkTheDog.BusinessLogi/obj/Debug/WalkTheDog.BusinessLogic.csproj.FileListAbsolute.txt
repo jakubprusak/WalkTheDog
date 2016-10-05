@@ -1,0 +1,9 @@
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.dll.config
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.pdb
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.xml
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.pdb

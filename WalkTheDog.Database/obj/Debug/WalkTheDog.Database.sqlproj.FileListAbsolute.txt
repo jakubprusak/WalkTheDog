@@ -1,0 +1,5 @@
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.dacpac
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.pdb
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.dll
+c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.pdb

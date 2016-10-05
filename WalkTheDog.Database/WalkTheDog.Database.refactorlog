@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c4457a9f-c145-4df0-9582-979e56abe393" ChangeDateTime="10/05/2016 07:06:03">
+    <Property Name="ElementName" Value="[dbo].[DogProfile].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DogProfile]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DogProfileId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f3fc2f0d-03f9-4547-b45f-ed426c8e7c5a" ChangeDateTime="10/05/2016 07:20:09">
+    <Property Name="ElementName" Value="[dbo].[DogProfile].[Size]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DogProfile]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DogSize" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3095befb-8c17-4a50-b5fa-fa29746edf05" ChangeDateTime="10/05/2016 07:22:20">
+    <Property Name="ElementName" Value="[dbo].[Meeting].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Meeting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MeetingId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="993adda8-af1f-4709-8f14-2f074e29025b" ChangeDateTime="10/05/2016 07:23:00">
+    <Property Name="ElementName" Value="[dbo].[Meeting].[Time]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Meeting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="TimeTicks" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="49a3f453-5fae-4814-83d4-5ad96d8e42cd" ChangeDateTime="10/05/2016 07:23:31">
+    <Property Name="ElementName" Value="[dbo].[Meeting].[TimeTicks]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Meeting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Date" />
+  </Operation>
+</Operations>

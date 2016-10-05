@@ -1,0 +1,62 @@
+﻿@model WalkTheDog.Public.Meeting.MeetingDto
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="text-align: center">Create dog meeting</h2>
+
+<form class="form-horizontal" method="POST" action="/Meetings/Index">
+    <fieldset>
+        <!-- Form Name -->
+        <legend></legend>
+
+        <!-- Text input-->
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="Date">Date</label>
+            <div class="col-md-6">
+
+                @Html.TextBoxFor(model => model.Date, new { id = "date", @class = "form-control input-md" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="ZipCodeId">ZipCode</label>
+            <div class="col-md-6">
+
+                @Html.TextBoxFor(model => model.ZipCode, new { id = "zipCode", @class = "form-control input-md" })
+            </div>
+        </div>
+
+        <!-- Appended Input-->
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="City">City</label>
+            <div class="col-md-6">
+
+                @Html.TextBoxFor(model => model.City, new { @class = "form-control input-md" })
+            </div>
+        </div>
+
+        <!-- Text input-->
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="Description">Description</label>
+            <div class="col-md-6">
+
+                @Html.TextAreaFor(model => model.Description, new { style = "Height: 200px;", @class = "form-control input-md" })
+            </div>
+        </div>
+
+        <!-- Button (Double) -->
+        <div class="form-group">
+            <label class="col-md-4 control-label" for="submitButton"></label>
+            <div class="col-md-8">
+                <button id="submitButton" type="submit" name="submitButton" class="btn btn-primary">Create</button>
+                <button type="button" onclick="window.history.back();" id="cancelButton" name="cancelButton" class="btn btn-danger">Back</button>
+            </div>
+        </div>
+
+    </fieldset>
+</form>
+
+@section scripts {
+    <script src="~/js/Meeting/Index.js"></script>
+}
