@@ -7,3 +7,12 @@ c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Busin
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.dll
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.pdb
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.dll.config
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.dll
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\WalkTheDog.BusinessLogi.pdb
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.dll
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.SqlServer.dll
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.xml
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\bin\Debug\EntityFramework.SqlServer.xml
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.dll
+C:\repo\WalkTheDog\WalkTheDog.BusinessLogi\obj\Debug\WalkTheDog.BusinessLogi.pdb

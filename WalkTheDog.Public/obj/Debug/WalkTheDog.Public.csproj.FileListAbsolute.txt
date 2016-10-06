@@ -2,3 +2,7 @@ c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Publi
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Public\bin\Debug\WalkTheDog.Public.pdb
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Public\obj\Debug\WalkTheDog.Public.dll
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Public\obj\Debug\WalkTheDog.Public.pdb
+C:\repo\WalkTheDog\WalkTheDog.Public\bin\Debug\WalkTheDog.Public.dll
+C:\repo\WalkTheDog\WalkTheDog.Public\bin\Debug\WalkTheDog.Public.pdb
+C:\repo\WalkTheDog\WalkTheDog.Public\obj\Debug\WalkTheDog.Public.dll
+C:\repo\WalkTheDog\WalkTheDog.Public\obj\Debug\WalkTheDog.Public.pdb

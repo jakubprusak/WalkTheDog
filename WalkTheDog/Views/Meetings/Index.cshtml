@@ -45,6 +45,20 @@
             </div>
         </div>
 
+        <div class="form-group">
+            <label class="col-md-4 control-label" for=""></label>
+            <div class="col-md-4">
+                <div class="alert alert-info">Where are you gooing to?! <br /> Left click on the map to create the circle! <br /> It's simply to do and will plain to find you with your dog! </div>
+                <label id="address"></label>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-4 control-label" for=""></label>
+            <div class="col-md-4">
+                <div id="map" style="height:400px;"></div>
+            </div>
+        </div>
+
         <!-- Button (Double) -->
         <div class="form-group">
             <label class="col-md-4 control-label" for="submitButton"></label>
@@ -54,9 +68,14 @@
             </div>
         </div>
 
+
+
     </fieldset>
 </form>
 
 @section scripts {
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2Ct19l_Wk010yiYQYAK5tv8OjLpDsgHc&callback=initMap">
+    </script>
     <script src="~/js/Meeting/Index.js"></script>
+
 }

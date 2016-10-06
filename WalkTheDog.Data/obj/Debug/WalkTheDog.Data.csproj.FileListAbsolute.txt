@@ -8,3 +8,13 @@ c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.csprojResolveAssemblyReference.cache
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.dll
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.pdb
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.dll.config
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.dll
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\WalkTheDog.Data.pdb
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.dll
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.xml
+C:\repo\WalkTheDog\WalkTheDog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\repo\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.csprojResolveAssemblyReference.cache
+C:\repo\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.dll
+C:\repo\WalkTheDog\WalkTheDog.Data\obj\Debug\WalkTheDog.Data.pdb

@@ -3,3 +3,12 @@ c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Datab
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.pdb
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.dll
 c:\users\jakub\documents\visual studio 2013\Projects\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.pdb
+C:\repo\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.dacpac
+C:\repo\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.dll
+C:\repo\WalkTheDog\WalkTheDog.Database\bin\Debug\WalkTheDog.Database.pdb
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\Model.xml
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\refactor.xml
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\postdeploy.sql
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\predeploy.sql
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.dll
+C:\repo\WalkTheDog\WalkTheDog.Database\obj\Debug\WalkTheDog.Database.pdb
